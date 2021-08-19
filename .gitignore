@@ -1,0 +1,8 @@
+_Deparsed_XSubs.pm
+.idea/**
+.vscode/**
+.vstags
+*.pid
+*.log
+data/config.json
+vendor_perl/**

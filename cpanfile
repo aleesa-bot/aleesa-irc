@@ -1,0 +1,17 @@
+requires 'Carp';
+requires 'Cwd::utf8';
+requires 'Date::Format::ISO8601';
+requires 'Encode';
+requires 'EV';
+requires 'File::Basename';
+requires 'File::Path';
+requires 'IO::Socket::SSL';
+requires 'JSON';
+requires 'JSON::XS';
+requires 'local::lib';
+requires 'Log::Any';
+requires 'Log::Any::Adapter';
+requires 'Log::Any::For::Std';
+requires 'Mojo::IRC';
+requires 'Mojo::Redis';
+requires 'POSIX';
